@@ -7,6 +7,9 @@ p{
   color:#ffff66
 
 }
+body{
+  padding: 10px;
+}
 .fotostemma{
   position: relative;
   left:240pt;
