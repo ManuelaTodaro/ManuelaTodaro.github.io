@@ -1,0 +1,75 @@
+a{
+
+  color:#ffff66;
+
+}
+p{
+  color:#ffff66
+
+}
+.fotostemma{
+  position: relative;
+  left:240pt;
+  top:200pt;
+
+
+}
+
+.racchetta{
+  position: relative;
+  left:15pt;
+}
+#ciao{
+  font-size: 40pt;
+  text-align: center;
+  color: yellow;
+}
+.stemma{
+  position: absolute;
+  color:yellow;
+  top:690;
+  left:260pt;
+}
+#video{
+  position: absolute;
+
+  top:730pt;
+  left:250;
+
+}
+
+#tennis{
+  font-size: 20pt;
+  text-align: center;
+  color: yellow;
+}
+#rac{
+  position: absolute;
+  left: 15pt;
+}
+
+th {
+  background-color:#ffff00;
+  color: black;
+  text-align: center;
+}
+td {
+
+  color: white;
+  text-align: center;
+  left:150pt;
+}
+
+summary{
+  color: yellow;
+  text-align: center;
+}
+}
+
+
+
+table{
+  position: relative;
+  left: 200pt;
+  top:300pt;
+}
